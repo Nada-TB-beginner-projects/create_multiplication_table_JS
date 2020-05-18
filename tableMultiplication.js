@@ -16,7 +16,7 @@ for(let i=0; i<table.length; i++){
 		}
 		
 	}
-	table[i]='<tr>'+table[i].join('')+'</tr';
+	table[i]='<tr>'+table[i].join('')+'</tr>';
 	
 }
 
